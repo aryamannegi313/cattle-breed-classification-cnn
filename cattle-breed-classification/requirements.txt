@@ -1,7 +1,0 @@
-tensorflow>=2.12
-numpy
-pandas
-matplotlib
-pillow
-scikit-learn
-shap
