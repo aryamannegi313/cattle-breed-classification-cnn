@@ -1,0 +1,7 @@
+Breed,Num images,Image type,Image size
+Ayrshire cattle,260,RGB,224x224 (resized)
+Brown Swiss cattle,238,RGB,224x224 (resized)
+Holstein Friesian cattle,254,RGB,224x224 (resized)
+Jersey cattle,252,RGB,224x224 (resized)
+Red Dane cattle,204,RGB,224x224 (resized)
+TOTAL,1208,RGB,224x224 (resized)

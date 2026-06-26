@@ -1,0 +1,4 @@
+Model,Total params,Trainable params,Frozen params
+Custom CNN,93893,93893,0
+MobileNetV2,2264389,6405,2257984
+ResNet50,23597957,10245,23587712

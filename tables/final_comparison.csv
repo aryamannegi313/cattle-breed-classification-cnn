@@ -1,0 +1,4 @@
+Model,Accuracy,F1-Score,Training Time,Params,Grad-CAM Quality,SHAP Interpretability,Overall Finding
+Custom CNN,0.6409,0.6376,146.8,93893,Low,Low,Weak baseline model; lowest accuracy and F1-score.
+MobileNetV2,0.8564,0.8568,118.4,2264389,Medium,Medium,Good lightweight transfer-learning model; strong accuracy with lower training time.
+ResNet50,0.9503,0.9502,169.8,23597957,High,High,"Best overall model; highest accuracy and F1-score, but largest parameter count."

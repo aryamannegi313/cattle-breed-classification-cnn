@@ -1,0 +1,4 @@
+Model,Accuracy,Precision (w),Recall (w),F1 (w),F1 (macro),Train time (s),Params
+Custom CNN,0.6409,0.657,0.6409,0.6376,0.6346,146.8,93893
+MobileNetV2,0.8564,0.8732,0.8564,0.8568,0.8519,118.4,2264389
+ResNet50,0.9503,0.9525,0.9503,0.9502,0.9488,169.8,23597957
